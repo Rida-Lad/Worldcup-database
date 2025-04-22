@@ -27,3 +27,6 @@ chmod +x insert_data.sh queries.sh
 # 4. Run scripts
 ./insert_data.sh   # Insert data
 ./queries.sh      # Get statistics
+```
+## 📜 Certification
+Part of freeCodeCamp's Relational Database Course
